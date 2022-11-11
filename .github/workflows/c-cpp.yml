@@ -13,11 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: configure
-      run: ./.github/configure
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+    - name: gcc compile
+      run: gcc -o FizzBuzz FizzBuzz.c
