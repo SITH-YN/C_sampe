@@ -1,4 +1,4 @@
-.PHONY: clean
+# GNU Makefile
 
 # (1)コンパイラ
 CC  = gcc
@@ -28,8 +28,11 @@ $(TARGET): $(OBJS)
 $(OBJS): $(SRCS)
 	$(CC) $(CFLAGS) $(INCDIR) -c $(SRCS)
 
+.PHONY: all
+
 # (11)"make all"で make cleanとmakeを同時に実施。
 all: clean $(OBJS) $(TARGET)
+
 # (12).oファイル、実行ファイル、.dファイルを削除
 clean:
 	-rm -f $(OBJS) $(TARGET) *.d
