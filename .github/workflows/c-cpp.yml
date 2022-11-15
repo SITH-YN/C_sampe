@@ -15,3 +15,5 @@ jobs:
     - uses: actions/checkout@v3
     - name: gcc compile
       run: gcc -o FizzBuzz FizzBuzz.c
+    - name: Make
+      run: make FizzBuzz
