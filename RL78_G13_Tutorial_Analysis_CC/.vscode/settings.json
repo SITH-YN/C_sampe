@@ -1,0 +1,15 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.iconTheme": "vs-seti",
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "${workspaceFolder}/cross.cmake",
+        "CMAKE_TOOLS_FOLDER": "${command:renesas.utilities.folder}/tools",
+        "SUPPORT_FILES_PATH": "${command:renesas.supportFiles.folder.rl78}"
+    },
+    "cmake.configureArgs": [
+        "-DCMAKE_TOOLCHAIN_FILE=${workspaceFolder}/cross.cmake"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.configureOnOpen": true,
+    "C_Cpp.intelliSenseEngineFallback": "enabled"
+}

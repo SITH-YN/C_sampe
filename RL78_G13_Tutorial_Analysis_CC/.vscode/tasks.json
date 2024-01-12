@@ -1,0 +1,40 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Project",
+      "group": "build",
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "renesas-configure",
+        "cmake-configure",
+        "cmake-build"
+      ]
+    },
+    {
+      "label": "renesas-configure",
+      "type": "renesas-build",
+      "command": "configure",
+      "deviceFamily": "RL78",
+      "toolchain": "cc-rl"
+    },
+    {
+      "label": "cmake-configure",
+      "command": "configure",
+      "type": "cmake",
+      "problemMatcher": [
+        "$renesas-configure",
+        "$renesas-configure-wf"
+      ]
+    },
+    {
+      "label": "cmake-build",
+      "command": "cleanRebuild",
+      "type": "cmake",
+      "problemMatcher": [
+        "$renesas-cc-build-errors",
+        "$renesas-cc-build-warnings"
+      ]
+    }
+  ]
+}

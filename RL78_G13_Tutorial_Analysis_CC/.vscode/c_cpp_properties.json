@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Generic",
+
+            "includePath": [
+                "C:/Renesas/CC/CC-RL/V1.12.01/inc",
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/generate"
+            ],
+            "defines": ["_DEBUG", "UNICODE", "_UNICODE", "_VSCODE"],
+            "intelliSenseMode": "clang-x64",
+            "compilerArgs": [],
+            "browse": {
+                "path": ["${workspaceFolder}/generate/**"],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

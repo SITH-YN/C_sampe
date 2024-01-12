@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -preprocess=comment,line -P -prep_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Preprocess -cref=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Crossreference -pass_source -asm_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Assembler -refs_without_declaration -Onothing -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/src -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/generate -character_set=utf8 -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_cgc.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_cgc.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_cgc.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_cgc.c.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -preprocess=comment,line -P -prep_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Preprocess -cref=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Crossreference -pass_source -asm_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Assembler -refs_without_declaration -Onothing -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/src -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/generate -character_set=utf8 -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_cgc_user.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_cgc_user.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_cgc_user.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_cgc_user.c.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -preprocess=comment,line -P -prep_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Preprocess -cref=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Crossreference -pass_source -asm_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Assembler -refs_without_declaration -Onothing -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/src -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/generate -character_set=utf8 -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_port.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_port.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_port.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_port.c.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -preprocess=comment,line -P -prep_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Preprocess -cref=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Crossreference -pass_source -asm_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Assembler -refs_without_declaration -Onothing -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/src -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/generate -character_set=utf8 -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_port_user.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_port_user.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_port_user.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_port_user.c.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -preprocess=comment,line -P -prep_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Preprocess -cref=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Crossreference -pass_source -asm_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Assembler -refs_without_declaration -Onothing -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/src -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/generate -character_set=utf8 -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_timer.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_timer.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_timer.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_timer.c.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -preprocess=comment,line -P -prep_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Preprocess -cref=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Crossreference -pass_source -asm_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Assembler -refs_without_declaration -Onothing -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/src -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/generate -character_set=utf8 -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_timer_user.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_timer_user.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_cg_timer_user.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\generate\\r_cg_timer_user.c.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -preprocess=comment,line -P -prep_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Preprocess -cref=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Crossreference -pass_source -asm_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Assembler -refs_without_declaration -Onothing -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/src -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/generate -character_set=utf8 -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\generate\\r_main.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_main.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_main.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\generate\\r_main.c.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -preprocess=comment,line -P -prep_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Preprocess -cref=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Crossreference -pass_source -asm_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Assembler -refs_without_declaration -Onothing -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/src -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/generate -character_set=utf8 -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\generate\\r_systeminit.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_systeminit.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate\\r_systeminit.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\generate\\r_systeminit.c.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -o CMakeFiles\\CCRL_Project.dir\\src\\cstart.asm.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src\\cstart.asm",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src\\cstart.asm",
+  "output": "CMakeFiles\\CCRL_Project.dir\\src\\cstart.asm.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -o CMakeFiles\\CCRL_Project.dir\\src\\hdwinit.asm.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src\\hdwinit.asm",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src\\hdwinit.asm",
+  "output": "CMakeFiles\\CCRL_Project.dir\\src\\hdwinit.asm.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -preprocess=comment,line -P -prep_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Preprocess -cref=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Crossreference -pass_source -asm_path=C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/Intermidiate/Assembler -refs_without_declaration -Onothing -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/src -IC:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/generate -character_set=utf8 -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\src\\main.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src\\main.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src\\main.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\src\\main.c.obj"
+},
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/RL78_G13_Tutorial_Analysis_CC/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\RENESAS\\CC\\CC-RL\\V1.12.01\\inc -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src -IC:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\generate  -cpu=S2 -g -dev=c:/Users/9921349-Z100/AppData/Roaming/Code/User/globalStorage/renesaselectronicscorporation.renesas-debug/DebugComp/RL78/RL78/COMMON/DR5F100LE.DVF -o CMakeFiles\\CCRL_Project.dir\\src\\stkinit.asm.obj -c C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src\\stkinit.asm",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\RL78_G13_Tutorial_Analysis_CC\\src\\stkinit.asm",
+  "output": "CMakeFiles\\CCRL_Project.dir\\src\\stkinit.asm.obj"
+}
+]

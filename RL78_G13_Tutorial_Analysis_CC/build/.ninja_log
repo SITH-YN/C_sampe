@@ -1,0 +1,15 @@
+# ninja log v5
+3	38	0	clean	29c8fc5f2c7b9e50
+135	358	7267570244178204	CMakeFiles/CCRL_Project.dir/src/cstart.asm.obj	8a60a292961c8f44
+152	401	7267570244708219	CMakeFiles/CCRL_Project.dir/src/hdwinit.asm.obj	9b2fc6d4a78885a8
+402	692	7267570247178222	CMakeFiles/CCRL_Project.dir/src/stkinit.asm.obj	bccccda972d9defa
+83	761	7267570248058261	CMakeFiles/CCRL_Project.dir/generate/r_cg_timer_user.c.obj	d1b52e3d132b160
+36	776	7267570248408381	CMakeFiles/CCRL_Project.dir/generate/r_cg_port.c.obj	e863f891feadd0f5
+50	843	7267570248908231	CMakeFiles/CCRL_Project.dir/generate/r_cg_port_user.c.obj	ae24741b0be4341c
+4	848	7267570248988208	CMakeFiles/CCRL_Project.dir/generate/r_cg_cgc.c.obj	789fcb89af7a283
+24	852	7267570249058242	CMakeFiles/CCRL_Project.dir/generate/r_cg_cgc_user.c.obj	50579f7d142cc946
+66	885	7267570249461071	CMakeFiles/CCRL_Project.dir/generate/r_cg_timer.c.obj	487abe655fee9fb
+118	889	7267570249461071	CMakeFiles/CCRL_Project.dir/generate/r_systeminit.c.obj	5d5fa9647ec7d622
+100	899	7267570249461071	CMakeFiles/CCRL_Project.dir/generate/r_main.c.obj	3c9f2ed22ddb0ecf
+360	959	7267570250221103	CMakeFiles/CCRL_Project.dir/src/main.c.obj	56d56655a542c273
+960	1421	0	CCRL_Project.exe	64435f468ee27f4b
