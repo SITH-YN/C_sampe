@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/GitHub/SITH-YN/C_sample/CMake_CCRL/build",
+  "command": "C:\\RENESAS\\CC\\CC-RL\\V1.12.01\\bin\\ccrl.exe -IC:\\GitHub\\SITH-YN\\C_sample\\CMake_CCRL\\src -IC:\\GitHub\\SITH-YN\\C_sample\\CMake_CCRL\\generate  -cpu=S2 -g -msg_lang=english -o CMakeFiles\\CCRL_Project.dir\\src\\test.c.obj -c C:\\GitHub\\SITH-YN\\C_sample\\CMake_CCRL\\src\\test.c",
+  "file": "C:\\GitHub\\SITH-YN\\C_sample\\CMake_CCRL\\src\\test.c",
+  "output": "CMakeFiles\\CCRL_Project.dir\\src\\test.c.obj"
+}
+]
